@@ -1,0 +1,8 @@
+ab hume ye check karna hoga ki jo bhi user type kar rha hai vo sahi hai ya nahi
+iske liye hume har ek word (and aage jakar har ek letter)
+ka reference lena hoga
+
+how to do it?
+We will make a array of length = no of words
+and it will contain all the references
+[referece1, reference2, ...]

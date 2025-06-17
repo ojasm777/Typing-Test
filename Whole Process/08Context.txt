@@ -1,0 +1,10 @@
+Now we need to make sure that if there is a 30s timer then the test runs for 30s
+We will implement this using context
+
+Prop Drilling - in react when we pass the variables in components we do this in form of props
+but when we have to pass a lot of components the code looks bad and also there is a better way to do this
+It is also bad performance wise
+
+to remove this issue
+1) Redux => state management tool using which we can store, we can put all states in one storing place 
+2) Context => given by react only. Context is like a wrapper which wraps around all the states, we can access states everywhere

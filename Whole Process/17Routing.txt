@@ -1,0 +1,12 @@
+For routing we will use react-router-dom
+
+we just have to tell that at what particular url what particular page should be loaded
+ 
+Define routes in a component named Route (previously known as switches)
+
+<Routes>
+    <Route path="/" element={<Page />} />
+</Routes>
+
+
+Now when we click on the account circle we should be redirected to the /user page

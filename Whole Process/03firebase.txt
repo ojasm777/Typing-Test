@@ -1,0 +1,5 @@
+firebase npm package
+We can use all the features of firebase after this
+why to use popular packages? 
+They have a very good community and solutions build around it
+They have very less error as it is tested by many people

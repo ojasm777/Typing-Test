@@ -1,0 +1,4 @@
+We can do xyz things and all for icons
+but for icons we will use material UI
+
+In order to show alerts we will use toastify, to show good feedback to the user

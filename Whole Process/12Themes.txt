@@ -1,0 +1,8 @@
+To make themes we will use context only
+pallete => collection of colors
+
+We will install react-select for selecting the theme funcitonality
+
+to keep the theme intact we will use localStorage 
+1 domain = 1 localStorage mapped to domain name
+sessionStorage is for 1 particular session only

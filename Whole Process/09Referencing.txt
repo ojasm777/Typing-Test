@@ -1,0 +1,11 @@
+In javaScript we used to use DOM querySelector and getElementById and all to reference to an element 
+but here in react we can use Ref to refere to an element
+
+Every HTML tag or element has this inbuilt property known as ref 
+using this ref attribute we can pass a variable
+<h1 ref = {a} ></h1>
+now this a variable will be pointing to this h1 tag, it will have each and every property 
+of this h1 tag, this is known as referencing 
+
+
+useRef returns an object {current : null / a, ...}

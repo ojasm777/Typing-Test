@@ -1,0 +1,5 @@
+For styling and stuff  we are going to use this module
+Styled components
+We can write very basic css and then we can use it like a component 
+=> reusable component
+We will also use material UI

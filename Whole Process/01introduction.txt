@@ -1,0 +1,12 @@
+- Typing test website
+- Firebase (managed by google)
+- Authentication
+- Database (Firestore)
+- User page
+- Compare features 
+- Themes
+
+Major focus on - 
+- React hooks
+- Context
+- Very basic CSS

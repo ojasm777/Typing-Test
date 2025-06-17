@@ -1,0 +1,5 @@
+After the user has given the test and we need to show the result to the user
+ 
+We will be showing it in the form of graph
+and for graph we will be using graphjs
+react-chartjs-2

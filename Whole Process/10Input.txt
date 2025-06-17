@@ -1,0 +1,1 @@
+As there is input tag in html we will use the input tag only to get the input

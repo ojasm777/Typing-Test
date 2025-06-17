@@ -1,0 +1,7 @@
+Now we will store all the data in the firestore database provided by firebase
+
+we will use 
+
+in stats we have all the stats there we will store all the data
+
+by creating the ref first and then using addDoc(resultRef, {data}).then().catch();

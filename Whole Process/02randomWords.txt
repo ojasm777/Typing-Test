@@ -1,0 +1,2 @@
+random-words npm package
+we get a function and we just have to put how many words do we want and then that's it (array)

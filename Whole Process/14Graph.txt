@@ -1,0 +1,3 @@
+to make a chart in react we use chartjs
+react-chartjs-2
+

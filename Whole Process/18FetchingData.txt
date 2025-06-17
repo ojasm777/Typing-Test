@@ -1,0 +1,14 @@
+Now after creating the user page, we need to show the data of the user in the user page
+to do this we will firt fetch the data of the user from the firestore
+
+This will happen in user page only
+
+modular based approach in newer versions of firebase
+
+get all the data of the user using the where clause 
+
+getting loading and user from useAuthState(Auth);
+
+using this loading to avoid error and useEffect on loading
+
+using CircularProgress to show while the data is being fetched and loading is true

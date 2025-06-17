@@ -1,0 +1,13 @@
+Typing speed formula
+
+gross wpm = (all typed entries or char) / (5*time in minutes)
+
+if correct incorrect taken in consideration then
+
+
+net wpm = gross wpm - (uncorrected errors/time) 
+
+accuracy = correct words typed / total words typed * 100%
+
+correct chars / incorrect chars / missed chars / extra chars 
+calculate all these after the test has ended
