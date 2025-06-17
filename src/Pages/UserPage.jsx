@@ -73,9 +73,10 @@ const UserPage = () => {
       <div class="canvas">
         <Header /> 
         <UserInfo totalTestsTaken={data.length} avgWPM={avgWPM} />
-        <div class="graph-user-page">
+        {graphData &&  (<div class="graph-user-page">
           <Graph graphData={graphData} type="date" />
         </div>
+        )}
         <TableUserData data={data} />
       </div>
     </>
