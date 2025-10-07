@@ -21,10 +21,12 @@ const Footer = () => {
         {/* <div className="links">Links</div> */} 
         <div className="actual-footer">
           <div className="links">
-            <a href="https://github.com/ojasm777" target="_blank">
+            <a href="https://github.com/Kunalkheda/TYPING-SPEED-TEST" target="_blank">
+            {/* <a href="https://github.com/ojasm777" target="_blank"> */}
               <GitHubIcon style={{ marginRight: "4px", color: theme.buttonColor}} />
             </a>
-            <a href="https://www.linkedin.com/in/ojasm777/" target="_blank">
+            <a href="https://www.linkedin.com/in/imkunalsingh1/" target="_blank">
+            {/* <a href="https://www.linkedin.com/in/ojasm777/" target="_blank"> */}
               <LinkedInIcon style={{ color: theme.buttonColor}}/>
             </a>
           </div>
